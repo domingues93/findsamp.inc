@@ -1,0 +1,7 @@
+*.amx
+*.exe
+*.txt
+pawno/*
+!pawno/include
+npcmodes
+.vscode
